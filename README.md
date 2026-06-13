@@ -1,2 +1,1 @@
-﻿# My First Git Project
-Edited on Github.
+﻿# My First Git Project　Edited on Github.
